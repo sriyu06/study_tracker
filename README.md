@@ -1,4 +1,4 @@
-# 📚 Study Tracker by [YourName]
+# 📚 Study Tracker 
 
 Welcome to my personal study tracker! This repository helps me stay accountable, document my learning, and track my progress across various tech topics.
 
