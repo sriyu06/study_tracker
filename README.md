@@ -7,7 +7,7 @@ Welcome to my personal study tracker! This repository helps me stay accountable,
 ## 🚀 Goals
 
 ### ✅ Weekly Goals
-- [x] Revise Git & GitHub basics
+- [x] Revise Git & GitHub basics....done
 - [x] Solve 10 problems from Striver’s DSA Sheet
 - [ ] Finish ML project on image classification
 
